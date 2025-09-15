@@ -9,6 +9,6 @@
   },
   "dependencies": {
     "@orama/plugin-astro": "./plugin.tgz",
-    "astro": "^2.0.2"
+    "astro": "^4.16.18"
   }
 }
